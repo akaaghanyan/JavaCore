@@ -7,7 +7,7 @@ public class classis {public static void main(String[] args){
       numbers[2] = 33;
       numbers[3] = 22;
       numbers[4] = 11;
-      System.out.println(numbers[4]);
+      System.out.println(numbers[2]);
 }
 
 
